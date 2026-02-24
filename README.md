@@ -2,11 +2,11 @@
 
 Projeto criado durante meus estudos na Mate Academy para praticar HTML5 e formulários.
 
-## 🧪 Tecnologias utilizadas
+Tecnologias utilizadas
 - HTML5  
 - CSS3  
 
-## 📌 Funcionalidades do formulário
+Funcionalidades do formulário
 - Campos de texto, número e data  
 - Campo de e-mail com validação  
 - Campo de senha com restrições  
@@ -17,11 +17,11 @@ Projeto criado durante meus estudos na Mate Academy para praticar HTML5 e formul
 - Range de avaliação (0 a 5)  
 - Uso de fieldset e legend para melhor organização  
 
-## 📂 Estrutura
+Estrutura
 - `index.htm` — Estrutura HTML do formulário  
 - `estilo.css` — Estilização básica do formulário  
 
-## ▶️ Como executar
+Como executar
 Abra o arquivo `index.htm` no navegador.
 
 ---
